@@ -1,2 +1,19 @@
 hello world!
 modify file
+
+cheery 1
+cherry 2
+cherry 3
+cherry 4
+
+append 1
+append 2
+append 3
+append 4
+append 5
+append 6
+append 7
+push 1
+push 2
+push 3
+push 4
