@@ -27,3 +27,5 @@ emplace 5
 
 insert 3
 insert 4
+insert 1 
+insert 2
